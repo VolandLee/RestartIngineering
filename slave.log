@@ -1,0 +1,40 @@
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: no response
+Master status: no response
+Потеряна связь с другими узлами. Перезапуск Slave.
+Arbiter status: no response
+Master status: no response
+Получено подтверждение от Арбитра об отсутствии связи с Mster. Promoting Slave to Master.
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: accepting connections
+Master status: no response
+Arbiter status: accepting connections
+Master status: no response
+Arbiter status: accepting connections
+Master status: no response
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: no response
+Master status: no response
+Потеряна связь с другими узлами. Перезапуск Slave.
+Arbiter status: no response
+Master status: no response
+Arbiter status: accepting connections
+Master status: accepting connections
+Arbiter status: accepting connections
+Master status: no response
+Получено подтверждение от Арбитра об отсутствии связи с Mster. Promoting Slave to Master.
