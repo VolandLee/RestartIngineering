@@ -1,3 +1,16 @@
+Master status: accepting connections
+Slave status: accepting connections
+Master status: accepting connections
+Slave status: accepting connections
+Master status: accepting connections
+Slave status: accepting connections
+Master status: accepting connections
+Slave status: accepting connections
+Master status: accepting connections
+Slave status: accepting connections
+Master status: accepting connections
+Slave status: accepting connections
+Master status: accepting connections
 Slave status: accepting connections
 Master status: no response
 Slave status: accepting connections
@@ -21,3 +34,6 @@ Master status: no response
 Slave status: accepting connections
 Master status: accepting connections
 Slave status: accepting connections
+Master status: no response
+Slave status: no response
+Потеряна связь с другими узлами. Перезапуск Арбитра
