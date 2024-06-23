@@ -1,0 +1,23 @@
+Slave status: accepting connections
+Master status: no response
+Slave status: accepting connections
+Sending 500 response to /check_master request
+Master status: no response
+Slave status: accepting connections
+Master status: accepting connections
+Slave status: accepting connections
+Master status: accepting connections
+Slave status: no response
+Master status: accepting connections
+Slave status: no response
+Master status: accepting connections
+Slave status: no response
+Master status: accepting connections
+Slave status: accepting connections
+Master status: no response
+Slave status: accepting connections
+Потеряна связь с другими узлами. Перезапуск Арбитра
+Master status: no response
+Slave status: accepting connections
+Master status: accepting connections
+Slave status: accepting connections
